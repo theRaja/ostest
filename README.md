@@ -1,0 +1,2 @@
+# ostest
+openshift test
